@@ -101,6 +101,11 @@ nav a:hover {
 	padding: 10px;
 }
 
+a:link,
+a:visited {
+	text-decoration: none;
+}
+
 h1 {
 	font-weight: bold;
 	color: #116189;
