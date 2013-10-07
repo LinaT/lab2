@@ -96,7 +96,7 @@ nav a:hover {
 }
 
 .person {
-	display: inline-block;
+	
 	float: left;
 	padding: 10px;
 }
@@ -116,4 +116,8 @@ h1 {
 h2 {
 	color: #116189;
 	font-weight: bold;
+}
+
+.bio {
+	padding: 10px;
 }
